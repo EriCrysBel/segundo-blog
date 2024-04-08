@@ -1,27 +1,25 @@
 ---
-title: Hello World
+title: Los huevos de pato CHINO
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+description: "Huevos de Pato en conserva"
 ---
+¡Este es mi primer post en mi nuevo blog falso! ¡Qué emoción!
 
-This is my first post on my new fake blog! How exciting!
+Estoy segura de que escribiré muchas más cosas interesantes en el futuro.
 
-I'm sure I'll write a lot more interesting things in the future.
+Ah, y aquí hay una gran cita de esta Wikipedia sobre
+[huevos de pato salados](https://en.wikipedia.org/wiki/Salted_duck_egg).
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
-
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
+> Un huevo de pato salado es un producto alimenticio en conserva chino que se elabora remojando huevos de pato en salmuera o envasándolos en un recipiente.
+> huevos de pato en salmuera, o envasando cada huevo en carbón salado húmedo. En los supermercados asiáticos
+> En los supermercados asiáticos, estos huevos se venden a veces cubiertos de una gruesa capa de pasta de carbón salado.
+> pasta de carbón salado. Los huevos también pueden venderse sin la pasta salada,
+> envueltos en plástico y envasados al vacío. Debido al proceso de salazón, los huevos
+> huevos de pato salados tienen un aroma salobre, una clara gelatinosa y una
 > firm-textured, round yolk that is bright orange-red in color.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+![Huevos salados chinos](./salty_egg.jpg)
 
-You can also write code blocks here!
 
 ```js
 const saltyDuckEgg = "chinese preserved food product"
@@ -29,9 +27,9 @@ const saltyDuckEgg = "chinese preserved food product"
 
 | Number | Title                                    | Year |
 | :----- | :--------------------------------------- | ---: |
-| 1      | Harry Potter and the Philosopher’s Stone | 2001 |
-| 2      | Harry Potter and the Chamber of Secrets  | 2002 |
-| 3      | Harry Potter and the Prisoner of Azkaban | 2004 |
+| 1      | Harry Potter y la piedra filosofal | 2001 |
+| 2      | Harry Potter y la cámara de los secretos  | 2002 |
+| 3      | Harry Potter y el prisionero de Azkaban | 2004 |
 
 [View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
 
@@ -43,10 +41,10 @@ This is a paragraph.
 
 ## Header 2
 
-    Header 1
+    Cabecera 1
     ========
 
-    Header 2
+    Cabecera 2
     --------
 
 # Header 1
@@ -87,7 +85,7 @@ This is a paragraph.
     ##### Header 5 #####
     ###### Header 6 ######
 
-> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+> esto ta aqui Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
     > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
